@@ -1,6 +1,3 @@
-from ast import Str
-
-
 Ticket = 7.45
 aantalTickets = int(input('Hoeveel tickets wil je hebben? '))
 GameSeat = 0.37
